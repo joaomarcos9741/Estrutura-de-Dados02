@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684500641 source:/var/www/ordenacao/tipordena/main.cpp
+	"Ordena.h"
+
+1684499674 /var/www/ordenacao/tipordena/Ordena.h
+	<iostream>
+

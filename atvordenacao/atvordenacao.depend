@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1684494588 source:/var/www/ordenacao/atvordenacao/main.cpp
+	"ordenacao.h"
+
+1684494447 /var/www/ordenacao/atvordenacao/ordenacao.h
+	<iostream>
+
+1684494608 source:/var/www/ordenacao/atvordenacao/ordenacao.cpp
+	"ordenacao.h"
+
